@@ -1,0 +1,17 @@
+{
+  "name": "get-change",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "main": "test.js",
+  "author": "Molly Schuman",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "eslint": "^7.13.0"
+  }
+}
